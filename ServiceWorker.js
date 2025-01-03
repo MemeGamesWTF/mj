@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-MichealJordan-1.0";
 const contentToCache = [
-    "Build/Build.loader.js",
-    "Build/Build.framework.js",
-    "Build/Build.data",
-    "Build/Build.wasm",
+    "Build/mj.loader.js",
+    "Build/mj.framework.js",
+    "Build/mj.data",
+    "Build/mj.wasm",
     "TemplateData/style.css"
 
 ];
